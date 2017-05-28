@@ -41,6 +41,7 @@ Wymysłowski, Dawid
 
 ## Projekty zespołowe (egzamin = średnia z coding challenge i zaliczenia)
 
+<!--
 Pull request według schematu:
 
 ```
@@ -48,8 +49,9 @@ Pull request według schematu:
   - [Coding Challenge 1](link do strony z rozwiązaniem)
   - [Coding Challenge 2](link do strony z rozwiązaniem)
 ```
+-->
 
-14.05.2017, aula 1, godz. 9:45
+Następne pezentacje: 11.06.2017, aula 1, godz. 9:45
 
 1. [Zeszpołu](https://github.com/ksazon)
   - [20 - Speech Detection](https://github.com/ksazon/happyAnimals)
