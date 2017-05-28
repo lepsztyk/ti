@@ -10,12 +10,17 @@ Dodatkowe informacje na temat _pull requests_: Scott Chacon and Ben Straub,
 (rozdział 6 książki [Pro Git](https://git-scm.com/book/en/v2))
 Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/git-tutorial).
 
+<!--
+Bartos, Michał
+Gołębiewski, Artur
+Kulaszewicz, Rafał
+
+-->
+
 <!-- (\d+),(.+),(.+),\d+  //  $1. $2, $3 -->
 
-1. [Bartos, Michał](https://github.com/toyorg/TI). [Mapa](https://toyorg.github.io/TI/mapa.html), [GeoJSON](https://toyorg.github.io/TI/geojson.html), [Responsywne tabele](https://toyorg.github.io/TI/rtables.html), [Responsywne obrazki](https://toyorg.github.io/TI/rimages.html)
 2. [Bilikiewicz, Semen](https://github.com/sbilikiewicz/TI). [Mapa](https://sbilikiewicz.github.io/TI/cern.html), [GeoJSON](https://sbilikiewicz.github.io/TI/geojson.html) 26.03
 3. [Dzięgielewski, Piotr](https://github.com/dexiefy/Techniki-Internetowe). [Mapa](https://dexiefy.github.io/Techniki-Internetowe/cern.html), [geoJSON](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html), [Responsive Images /w Gulp](https://dexiefy.github.io/Techniki-Internetowe/responsiveimages.html), [Responsywne tabelki](https://dexiefy.github.io/Techniki-Internetowe/ResponsiveTables.html), [Mathjax](https://dexiefy.github.io/Techniki-Internetowe/Mathjax.html).
-4. [Gołębiewski, Artur](https://github.com/swiatlamiasta/studia). [Mapa](http://swiatlamiasta.github.io/studia/), [GeoJSON](http://swiatlamiasta.github.io/studia/leaflet.html), [ResponsiveImg](http://swiatlamiasta.github.io/studia/obrazek.html), [Flexbox](http://swiatlamiasta.github.io/studia/flexb.html), [MathJax](http://swiatlamiasta.github.io/studia/matjax.html).
 5. [Gorzkowski, Michał](https://github.com/mrhiyoko/gulpintro). [Mapa](https://mrhiyoko.github.io/gulpintro/). [Geojson](https://mrhiyoko.github.io/geojson/leaf.html). 26.03
 6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/cern.html), [GeoJSON](https://wojsamjan.github.io/myGulp501/geojson.html), [MathJax](https://wojsamjan.github.io/myGulp501/mathjax.html), [ResponsiveTables](https://wojsamjan.github.io/myGulp501/respotable.html), [ResponsiveImages](https://wojsamjan.github.io/myGulp501/respoimage.html). 26.03
 6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/map.html), [GeoJSON](https://mattiasquat.github.io/TI/leaflet.html) [Responsively](https://mattiasquat.github.io/TI/responsywnosc.html) 26.03
@@ -29,7 +34,6 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 12. [Sazon, Krzysztof](https://github.com/ksazon/cernMap). [CERN Map](https://ksazon.github.io/cernMap/), [geoJSON](https://ksazon.github.io/geoJSON/), [Responsive webpage](https://ksazon.github.io/responsiveSite/)
 12. [Wymysłowski, Dawid](https://github.com/garpus/Wymyslowski)
 13. [Zarzycki, Mateusz](https://github.com/MateuszsuetaM/Techniki_internetowe).
-14. [Kulaszewicz, Rafał](https://github.com/rkulaszewicz/TI). [geoJSON](https://rkulaszewicz.github.io/TI/mapa.html), [Responsywna](https://rkulaszewicz.github.io/TI/tabele.html)
 
 
 ## Projekty zespołowe (egzamin = średnia z coding challenge i zaliczenia)
