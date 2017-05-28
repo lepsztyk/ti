@@ -12,15 +12,19 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 
 <!--
 Bartos, Michał
+Dzięgielewski, Piotr
 Gołębiewski, Artur
 Kulaszewicz, Rafał
+Wymysłowski, Dawid
+
+
+3. [Dzięgielewski, Piotr](https://github.com/dexiefy/Techniki-Internetowe). [Mapa](https://dexiefy.github.io/Techniki-Internetowe/cern.html), [geoJSON](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html), [Responsive Images /w Gulp](https://dexiefy.github.io/Techniki-Internetowe/responsiveimages.html), [Responsywne tabelki](https://dexiefy.github.io/Techniki-Internetowe/ResponsiveTables.html), [Mathjax](https://dexiefy.github.io/Techniki-Internetowe/Mathjax.html).
 
 -->
 
 <!-- (\d+),(.+),(.+),\d+  //  $1. $2, $3 -->
 
 2. [Bilikiewicz, Semen](https://github.com/sbilikiewicz/TI). [Mapa](https://sbilikiewicz.github.io/TI/cern.html), [GeoJSON](https://sbilikiewicz.github.io/TI/geojson.html) 26.03
-3. [Dzięgielewski, Piotr](https://github.com/dexiefy/Techniki-Internetowe). [Mapa](https://dexiefy.github.io/Techniki-Internetowe/cern.html), [geoJSON](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html), [Responsive Images /w Gulp](https://dexiefy.github.io/Techniki-Internetowe/responsiveimages.html), [Responsywne tabelki](https://dexiefy.github.io/Techniki-Internetowe/ResponsiveTables.html), [Mathjax](https://dexiefy.github.io/Techniki-Internetowe/Mathjax.html).
 5. [Gorzkowski, Michał](https://github.com/mrhiyoko/gulpintro). [Mapa](https://mrhiyoko.github.io/gulpintro/). [Geojson](https://mrhiyoko.github.io/geojson/leaf.html). 26.03
 6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/cern.html), [GeoJSON](https://wojsamjan.github.io/myGulp501/geojson.html), [MathJax](https://wojsamjan.github.io/myGulp501/mathjax.html), [ResponsiveTables](https://wojsamjan.github.io/myGulp501/respotable.html), [ResponsiveImages](https://wojsamjan.github.io/myGulp501/respoimage.html). 26.03
 6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/map.html), [GeoJSON](https://mattiasquat.github.io/TI/leaflet.html) [Responsively](https://mattiasquat.github.io/TI/responsywnosc.html) 26.03
@@ -32,7 +36,6 @@ Kulaszewicz, Rafał
 10. [Nurzyński, Sebastian](https://github.com/ugkontzal/ugkontzal.github.io). [Mapa](https://ugkontzal.github.io/docs/cern.html). [Responsywna](https://ugkontzal.github.io/docs/respons.html)
 11. [Ruciński, Marek](https://github.com/marenty). [Strona z mapą](https://marenty.github.io/), [GeoJason](https://marenty.github.io/src/zad2.html), [Responsywność](https://marenty.github.io/src/zad3.html) 26.03
 12. [Sazon, Krzysztof](https://github.com/ksazon/cernMap). [CERN Map](https://ksazon.github.io/cernMap/), [geoJSON](https://ksazon.github.io/geoJSON/), [Responsive webpage](https://ksazon.github.io/responsiveSite/)
-12. [Wymysłowski, Dawid](https://github.com/garpus/Wymyslowski)
 13. [Zarzycki, Mateusz](https://github.com/MateuszsuetaM/Techniki_internetowe).
 
 
@@ -46,7 +49,7 @@ Pull request według schematu:
   - [Coding Challenge 2](link do strony z rozwiązaniem)
 ```
 
-14.05.2017, aula 1, godz. 8:30
+14.05.2017, aula 1, godz. 9:45
 
 1. [Zeszpołu](https://github.com/ksazon)
   - [20 - Speech Detection](https://github.com/ksazon/happyAnimals)
