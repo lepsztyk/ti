@@ -19,8 +19,6 @@ Kulaszewicz, Rafał
 Lejk,
 Wymysłowski, Dawid
 Zarzycki, Mateusz
-
-
 -->
 
 <!-- (\d+),(.+),(.+),\d+  //  $1. $2, $3 -->
