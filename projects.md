@@ -46,7 +46,7 @@ Pull request według schematu:
 ```
 -->
 
-**NEW!** Następne pezentacje: 11.06.2017, aula 1, godz. 9:45
+**NEW!** Następne prezentacje: 11.06.2017, aula 1, godz. 9:45; kontynuacja 10:45, lab. 39.
 
 1. [Zeszpołu](https://github.com/ksazon)
   - [20 - Speech Detection](https://github.com/ksazon/happyAnimals)
