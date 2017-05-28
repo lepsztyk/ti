@@ -77,7 +77,7 @@ Pull request według schematu:
   - [19 - Webcam Fun](https://github.com/wesbos/JavaScript30/tree/master/19%20-%20Webcam%20Fun)
 
 
-11.06.2017, aula 1, godz. 8:30
+11.06.2017, aula 1, godz. 8:30; kontynuacja 10:45, lab. 39.
 
 1. [MASA](https://github.com/marenty)
   - [3 - CSS Variables](https://github.com/marenty/03-CSS-Variables)
