@@ -1,3 +1,5 @@
+// Dzięgielewski, Piotr](https://github.com/dexiefy/Techniki-Internetowe
+
 var gulp = require('gulp'),
   connect = require('gulp-connect'),
   watch = require('gulp-watch'),

@@ -13,12 +13,10 @@ Michael Hartl, [Learn Enough Git to Be Dangerous](https://www.learnenough.com/gi
 <!--
 Bartos, Michał
 Dzięgielewski, Piotr
+Januszek, Wojciech
 Gołębiewski, Artur
 Kulaszewicz, Rafał
 Wymysłowski, Dawid
-
-
-3. [Dzięgielewski, Piotr](https://github.com/dexiefy/Techniki-Internetowe). [Mapa](https://dexiefy.github.io/Techniki-Internetowe/cern.html), [geoJSON](https://dexiefy.github.io/Techniki-Internetowe/geoJSON.html), [Responsive Images /w Gulp](https://dexiefy.github.io/Techniki-Internetowe/responsiveimages.html), [Responsywne tabelki](https://dexiefy.github.io/Techniki-Internetowe/ResponsiveTables.html), [Mathjax](https://dexiefy.github.io/Techniki-Internetowe/Mathjax.html).
 
 -->
 
@@ -26,7 +24,6 @@ Wymysłowski, Dawid
 
 2. [Bilikiewicz, Semen](https://github.com/sbilikiewicz/TI). [Mapa](https://sbilikiewicz.github.io/TI/cern.html), [GeoJSON](https://sbilikiewicz.github.io/TI/geojson.html) 26.03
 5. [Gorzkowski, Michał](https://github.com/mrhiyoko/gulpintro). [Mapa](https://mrhiyoko.github.io/gulpintro/). [Geojson](https://mrhiyoko.github.io/geojson/leaf.html). 26.03
-6. [Januszek, Wojciech](https://github.com/wojsamjan/myGulp501). [Mapa](https://wojsamjan.github.io/myGulp501/cern.html), [GeoJSON](https://wojsamjan.github.io/myGulp501/geojson.html), [MathJax](https://wojsamjan.github.io/myGulp501/mathjax.html), [ResponsiveTables](https://wojsamjan.github.io/myGulp501/respotable.html), [ResponsiveImages](https://wojsamjan.github.io/myGulp501/respoimage.html). 26.03
 6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/map.html), [GeoJSON](https://mattiasquat.github.io/TI/leaflet.html) [Responsively](https://mattiasquat.github.io/TI/responsywnosc.html) 26.03
 7. [Labuda, Mateusz](https://github.com/mlabuda2/ti_2017). [Mapka](https://mlabuda2.github.io/ti_2017/googlemap), [GeoJSON](https://mlabuda2.github.io/ti_2017/geojson.html), [Responsively](https://mlabuda2.github.io/ti_2017/responsivesite.html)
 8. [Lejk, Krzysztof](https://github.com/kysioo/zadania) [cern](https://kysioo.github.io/cern) [tabela](https://kysioo.github.io/tabela) [rimages](https://kysioo.github.io/rimages)26.02 26.03
