@@ -16,7 +16,10 @@ Dzięgielewski, Piotr
 Januszek, Wojciech
 Gołębiewski, Artur
 Kulaszewicz, Rafał
+Lejk,
 Wymysłowski, Dawid
+Zarzycki, Mateusz
+
 
 -->
 
@@ -31,7 +34,6 @@ Wymysłowski, Dawid
 10. [Nurzyński, Sebastian](https://github.com/ugkontzal/ugkontzal.github.io). [Mapa](https://ugkontzal.github.io/docs/cern.html). [Responsywna](https://ugkontzal.github.io/docs/respons.html)
 11. [Ruciński, Marek](https://github.com/marenty). [Strona z mapą](https://marenty.github.io/), [GeoJason](https://marenty.github.io/src/zad2.html), [Responsywność](https://marenty.github.io/src/zad3.html) 26.03
 12. [Sazon, Krzysztof](https://github.com/ksazon/cernMap). [CERN Map](https://ksazon.github.io/cernMap/), [geoJSON](https://ksazon.github.io/geoJSON/), [Responsive webpage](https://ksazon.github.io/responsiveSite/)
-13. [Zarzycki, Mateusz](https://github.com/MateuszsuetaM/Techniki_internetowe).
 
 
 ## Projekty zespołowe (egzamin = średnia z coding challenge i zaliczenia)
