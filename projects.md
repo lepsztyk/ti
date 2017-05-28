@@ -53,9 +53,9 @@ Pull request według schematu:
   - [11 - Custom Video Player](https://github.com/MateuszsuetaM/JavaScript30days_challenge)
 
 1. [Mr. Bean](https://github.com/wojsamjan?tab=repositories)
-  - [2 - CSS + JS CLOCK](https://github.com/wojsamjan/cssJS_Clock)
+  - [2 - CSS + JS CLOCK](https://wojsamjan.github.io/myGulp501/css_js_clock.html)
   - [5 - Flex Panels Image Gallery](https://github.com/dexiefy/Flex_Panels_Image_Gallery)
-  - [13 - Slide In On Scroll](https://github.com/wojsamjan/slideInOnScroll)
+  - [13 - Slide In On Scroll](https://wojsamjan.github.io/myGulp501/slide_in_on_scroll.html)
 
 1. [Lepiej późno niż wcale…](https://github.com/garpus)
   - [10 - Hold-Shift-and-Check-Checkboxes](https://github.com/garpus/10---Hold-Shift-and-Check-Checkboxes)
