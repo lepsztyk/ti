@@ -25,7 +25,6 @@ Wymysłowski, Dawid
 2. [Bilikiewicz, Semen](https://github.com/sbilikiewicz/TI). [Mapa](https://sbilikiewicz.github.io/TI/cern.html), [GeoJSON](https://sbilikiewicz.github.io/TI/geojson.html) 26.03
 5. [Gorzkowski, Michał](https://github.com/mrhiyoko/gulpintro). [Mapa](https://mrhiyoko.github.io/gulpintro/). [Geojson](https://mrhiyoko.github.io/geojson/leaf.html). 26.03
 6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/map.html), [GeoJSON](https://mattiasquat.github.io/TI/leaflet.html) [Responsively](https://mattiasquat.github.io/TI/responsywnosc.html) 26.03
-8. [Lejk, Krzysztof](https://github.com/kysioo/zadania) [cern](https://kysioo.github.io/cern) [tabela](https://kysioo.github.io/tabela) [rimages](https://kysioo.github.io/rimages)26.02 26.03
 9. [Lepieszkiewicz Bartosz](https://github.com/lepsztyk/my_gulp_101). [Mapa](https://lepsztyk.github.io/my_gulp/), [geoJSON](https://lepsztyk.github.io/geojson/)
 9. [Litkowski,Kamil](https://github.com/klitkowski/TI). [Mapa](https://klitkowski.github.io/TI/app/mapa.html) 26.02
 9. [Madej, Martin](https://github.com/Pes2009/Pes2009.github.io) 05.03 26.03
