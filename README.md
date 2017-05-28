@@ -99,13 +99,6 @@ W swoich tabelkach zastosować się do „3½ simple rules” z tego artykułu.
 * [:japanese_ogre: – dummy image generator](http://satyr.io) –
   może ułatwić przygotowanie prototypu strony z responsywnymi obrazkami
 
-**NEW!** Przydatne w czasie prezentacji rozwiązań zadań narzędzia: :newspaper: :new:
-
-1. [Sizzy](http://sizzy.co) – A tool for developing responsive websites crazy-fast;
-  [link do repozytrorium](https://github.com/kitze/sizzy)
-1. Eric Bidelman. [Getting Started with Headless Chrome](https://developers.google.com/web/updates/2017/04/headless-chrome).
-  - [Chrome debugging protocol](https://chromedevtools.github.io/debugger-protocol-viewer/)
-
 ----
 
 > [presentations/projects/solutions needs] <br>
@@ -152,7 +145,7 @@ jeden z frameworków wymienionych poniżej:
 
 ### Egzamin (projekty zespołowe)
 
-Prezentacje w trakcie wykładu swoich rozwiązań zaczynając od **14.05.2017**, **8:15**, **aula 1**.
+Prezentacje swoich rozwiązań: **28.05** i **11.06.2017**.
 
 Zrealizować kilka projektów ze strony
 [30 Day Vanilla JS Coding Challenge](https://javascript30.com);
@@ -166,7 +159,6 @@ Podstawy język JavaScript:
   [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS);
   [polskie tłumaczenia](http://helion.pl/search?szukaj=Simpson)
 - [ES6 Overview in 350 Bullet PointsES6 Overview in 350 Bullet Points](https://github.com/bevacqua/es6/blob/master/readme.markdown)
-- [ES6 for Humans](https://github.com/metagrover/ES6-for-humans)
 
 ----
 
