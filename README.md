@@ -35,7 +35,8 @@ lub _README.adoc_ (AsciiDoctor) krótko opisać rozwiązanie każdego zadania.
 * Utworzyć repozytorium na rozwiązania zadań. Link do repozytorium oraz
   link do stron HTML z rozwiązaniami wpisać w pliku [projects.md](projects.md).
 * Zapoznać się z programem [gulp](http://gulpjs.com) ułatwiającym pracę
-  z projektami HTML+CSS+JavaScript.
+  z projektami HTML+CSS+JavaScript; zob. też
+  [A Comprehensive Introduction to Webpack, the Module Bundler](http://www.theodo.fr/blog/2016/07/a-comprehensive-introduction-to-webpack-the-module-bundler/)
 * Do kodu [pierwszej strony WWW](http://info.cern.ch/hypertext/WWW/TheProject.html)
   dodać mapkę okolic CERN. Użyć jednego z komponetów webowych
   [GoogleWebComponents](https://www.webcomponents.org/author/GoogleWebComponents).
@@ -150,6 +151,8 @@ Prezentacje swoich rozwiązań: **28.05** i **11.06.2017**.
 Zrealizować kilka projektów ze strony
 [30 Day Vanilla JS Coding Challenge](https://javascript30.com);
 [repo z _starter files_](https://github.com/wesbos/JavaScript30).
+lub coś z [WebAssembly](http://webassembly.org/), zob. np.
+[WebAssembly 101: a developer's first steps](http://blog.openbloc.fr/webassembly-first-steps/)
 
 Podstawy język JavaScript:
 
