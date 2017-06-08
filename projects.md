@@ -60,6 +60,10 @@ Pull request według schematu:
 1. [Lepiej późno niż wcale…](https://github.com/garpus)
   - [10 - Hold-Shift-and-Check-Checkboxes](https://github.com/garpus/10---Hold-Shift-and-Check-Checkboxes)
   - [12 - Key-Sequence-Detection](https://github.com/garpus/12---Key-Sequence-Detection)
+  
+1. [L&L](https://github.com/lepsztyk/lepsztyk.github.io/blob/master/README.md)
+  - [28 - Video Speed Controller](https://github.com/klitkowski/TI/tree/master/28%20-%20Video%20Speed%20Controller)
+  - [16 - Mouse Move Shadow](https://github.com/lepsztyk/lepsztyk.github.io/tree/master/16_mouse_shadow)
 
 28.05.2017, aula 1, godz. 8:30
 
