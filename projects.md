@@ -27,7 +27,7 @@ Zarzycki, Mateusz
 5. [Gorzkowski, Michał](https://github.com/mrhiyoko/gulpintro). [Mapa](https://mrhiyoko.github.io/gulpintro/). [Geojson](https://mrhiyoko.github.io/geojson/leaf.html). 26.03
 6. [Kamiński, Mateusz](https://github.com/mattiasquat/TI). [Mapa](https://mattiasquat.github.io/TI/map.html), [GeoJSON](https://mattiasquat.github.io/TI/leaflet.html) [Responsively](https://mattiasquat.github.io/TI/responsywnosc.html) 26.03
 9. [Lepieszkiewicz Bartosz](https://github.com/lepsztyk/my_gulp_101). [Mapa](https://lepsztyk.github.io/my_gulp/), [geoJSON](https://lepsztyk.github.io/geojson/)
-9. [Litkowski,Kamil](https://github.com/klitkowski/TI). [Mapa](https://klitkowski.github.io/TI/app/mapa.html) 26.02
+9. [Litkowski,Kamil](https://github.com/klitkowski/TI). [Mapa](https://klitkowski.github.io/TI/app/mapa.html), [Responsynwa Tabela](https://klitkowski.github.io/TI/responsywnosc/tab.html), [Responsynwe Obrazki](https://klitkowski.github.io/TI/responsywnosc/img.html) 26.02
 9. [Madej, Martin](https://github.com/Pes2009/Pes2009.github.io) 05.03 26.03
 10. [Nurzyński, Sebastian](https://github.com/ugkontzal/ugkontzal.github.io). [Mapa](https://ugkontzal.github.io/docs/cern.html). [Responsywna](https://ugkontzal.github.io/docs/respons.html)
 11. [Ruciński, Marek](https://github.com/marenty). [Strona z mapą](https://marenty.github.io/), [GeoJason](https://marenty.github.io/src/zad2.html), [Responsywność](https://marenty.github.io/src/zad3.html) 26.03
